@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-octa_dotnet",
+      "appliesTo": "octa_dotnet.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

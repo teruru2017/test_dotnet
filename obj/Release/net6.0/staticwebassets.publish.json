@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NJFrP6tIqPPRvzQfZbLZYA0zVOFBkx0oYTDaq0K04OI=",
+  "Source": "octa_dotnet",
+  "BasePath": "_content/octa_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
